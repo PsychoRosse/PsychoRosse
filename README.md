@@ -10,7 +10,7 @@
     </a>
   </div>
 
-  <img src="kodanu_logo.jpg" alt="Аватар" width="1000" height="500" style="border-radius: 50%;" />
+  <img src="kodanu_logo.jpg" alt="Аватар" width="1000" height="650" style="border-radius: 50%;" />
 </div>
 
 ### 🔭 What I’m working on now

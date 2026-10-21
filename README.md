@@ -1,7 +1,8 @@
 <div align="center">
-  <h2 style="border-bottom: none;">Hello, I'm PsychoRosse</h2>
-  <p>I am a <b>Rust Developer</b> 🦀<br> 
-  And this is my <b>Kodanu</b> </p>
+  <div>
+    <h2 style="margin-bottom: 5px;">Hello, I'm PsychoRosse</h2>
+    <p style="margin-top: 0;">I am a <b>Rust Developer</b> 🦀<br>And this is my <b>Kodanu</b>:</p>
+  </div>  
   
   <div align="left">
     <a href="https://www.rust-lang.org/">

@@ -1,7 +1,7 @@
 <div align="center">
   <div>
     <h2 style="margin-bottom: 5px;">Hello, I'm PsychoRosse</h2>
-    <p style="margin-top: 0;">I am a <b>Rust Developer</b> 🦀<br>And this is my <b>Kodanu</b>:</p>
+    <p style="margin-top: 0;">I am a <b>Rust Developer</b> 🦀<br>And this is my <b>Kodanu</b></p>
   </div>  
   
   <div align="left">

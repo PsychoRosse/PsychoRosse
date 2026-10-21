@@ -10,5 +10,5 @@
 
   <br>
 
-  <img src="kodanu_logo.png" alt="Аватар" width="150" height="150" style="border-radius: 50%;" />
+  <img src="kodanu_logo.png" alt="Аватар" width="1000" height="500" style="border-radius: 50%;" />
 </div>

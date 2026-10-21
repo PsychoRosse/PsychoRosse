@@ -20,10 +20,10 @@
 
   I’m building a modular plugin‑based engine from scratch to study high‑performance system programming and modern rendering techniques. 
   
-  **Main technology stack and features:**
-  - **Graphics:** built on `wgpu` and `winit` with direct rendering, directional lighting, and GPU instancing.
-  - **Architecture:** a plugin-based system managed by a custom ECS (Entity Component System) core.
-  - **Physics and mathematics:** integrated `rapier3d` for physics and custom mathematical libraries for working with vectors and quaternions.
+  **Main technology stack and features:**  
+  **Graphics:** built on `wgpu` and `winit` with direct rendering, directional lighting, and GPU instancing.
+  **Architecture:** a plugin-based system managed by a custom ECS (Entity Component System) core.
+  **Physics and mathematics:** integrated `rapier3d` for physics and custom mathematical libraries for working with vectors and quaternions.
   
   **Current tasks:****Refinement of the rendering pipeline and creation of an artificial intelligence integration module.**
 </div>

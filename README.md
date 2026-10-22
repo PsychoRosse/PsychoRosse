@@ -9,8 +9,6 @@
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge" />
     </a>
   </div>
-
-  <img src="kodanu_background_main.jpg" alt="Аватар" width="1000" height="550" style="border-radius: 50%;" />
 </div>
 
 ### 🔭 What I’m working on now

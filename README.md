@@ -8,7 +8,7 @@
 ### 🔭 What I’m working on now
 **[Kodanu](https://github.com/PsychoRosse/kodanu)** is an incredibly fast 3D game engine written in Rust. 
 
-I’m building a modular plugin‑based engine from scratch to study high‑performance system programming and modern rendering techniques. 
+I’m building a modular plugin‑based engine from scratch. 
 
 **Main technology stack and features:**  
 - **Graphics:** built on `wgpu` and `winit` with direct rendering, directional lighting, and GPU instancing.

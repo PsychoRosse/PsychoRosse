@@ -1,7 +1,7 @@
 <div align="center">
   <div>
     <h1 style="margin-bottom: 5px; font-size: 1.5em;">Hello, I'm Psycho Rosse</h1>
-    <p style="margin-top: 0;">I am a <b>Rust Developer</b><br>And this is my <b>Kodanu</b>
+    <p style="margin-top: 0;">I am a <b>Rust Developer</b>
   </div>  
 </div>
 

@@ -15,8 +15,6 @@ I’m building a modular plugin‑based engine from scratch.
 - **Architecture:** a plugin-based system managed by a custom ECS core.
 - **Physics and mathematics:** integrated `rapier3d` for physics and custom mathematical libraries for working with vectors and quaternions.
 
-Current tasks: **Refinement of the rendering pipeline and creation of an artificial intelligence integration module.**
-
 <div align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />

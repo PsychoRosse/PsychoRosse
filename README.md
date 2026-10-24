@@ -20,13 +20,8 @@ I'm developing the engine as a collection of independent, interconnected crates,
 - **Graphics & World Systems:** Cameras, transforms, typed asset handles, and UI components.
 - **Extensibility:** A plugin-based architecture that allows engine features and game logic to be organized into separate modules.
 
-### 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/wgpu-4A90D9?style=for-the-badge" alt="wgpu" />
-  <img src="https://img.shields.io/badge/ECS-Custom-6A5ACD?style=for-the-badge" alt="Custom ECS" />
-  <img src="https://img.shields.io/badge/Rapier3D-FF6F00?style=for-the-badge" alt="Rapier3D" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>

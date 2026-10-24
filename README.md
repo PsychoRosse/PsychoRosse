@@ -18,7 +18,6 @@ I'm developing the engine as a collection of independent, interconnected crates,
 - **Physics:** Integration with `rapier3d` for 3D physics simulation, rigid bodies, colliders, and spatial queries.
 - **Mathematics:** Custom math library, **Plam**, providing vectors, quaternions, matrices, and 3D transformation operations.
 - **Graphics & World Systems:** Cameras, transforms, typed asset handles, and UI components.
-- **Extensibility:** A plugin-based architecture that allows engine features and game logic to be organized into separate modules.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
